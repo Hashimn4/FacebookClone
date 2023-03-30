@@ -663,6 +663,10 @@ body {
         border-radius: 5px;
     }
 
+    .reel-header {
+        color: #606770;
+    }
+
     .fourth {
         display: none;
     }
