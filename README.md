@@ -12,7 +12,7 @@ There were some challenges that I faced during the production of the clone. One 
   <h2>Mobile</h2>
   <img src="https://api.apify.com/v2/key-value-stores/cONb4O2LJw4hqUSAe/records/facebookclone3.netlify.app-scroll_lossy-comp" height=600/>
   <p>For the mobile version, I had to get the layout from the phone application of Facebook.</p>
-</div>
+</div> 
 
 <div align="center">
   <h2>Tablet</h2>
